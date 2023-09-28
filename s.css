@@ -1,0 +1,24 @@
+h1
+{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+p{
+    color: brown;
+    text-align: justify;
+    font-weight: 1000;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+
+#Border{
+    border-style:solid ;
+    border-width: 1px;
+    border-color: red;
+    position: ;
+}
+
